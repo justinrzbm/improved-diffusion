@@ -1,3 +1,6 @@
 .DS_Store
 __pycache__/
 
+/cifar_test
+/cifar_train
+/improved_diffusion.egg-info
